@@ -14,5 +14,6 @@ Essa aplicação é projetada para auxiliar outra aplicação que gerencia drive
 ### Utilidade
 A aplicação facilita o gerenciamento e a sincronização de arquivos entre S3 e Google Drive, além de garantir que todas as operações sejam realizadas de forma segura e eficiente, sem sobrecarregar os servidores.
 
-![image](https://github.com/user-attachments/assets/4e698211-7682-4303-aa59-adc5a23ac4b1)
+![image](https://github.com/user-attachments/assets/ff28d0e8-a7ac-4922-b0af-fe109376cea2)
+
 
