@@ -1,5 +1,5 @@
 ## Descrição
-Essa aplicação é projetada para auxiliar outra aplicação que gerencia drives do Google e realiza a conversão de arquivos .cr3 para .jpeg. A aplicação possui três módulos principais:
+Essa aplicação é projetada para a **conversão de arquivos .cr3 para .jpeg** e armazené-los no **Google Drive**. A aplicação possui três módulos principais:
 
 ### Módulo 1: Lateralização de Autenticação (Auth Sharing Module)
 **`Função:`** Recebe e processa credenciais de autenticação compartilhadas de um outro servidor já autenticado com as APIs do Google.<br>
