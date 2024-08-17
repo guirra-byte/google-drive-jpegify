@@ -11,7 +11,8 @@ Essa aplicação é projetada para a **conversão de arquivos .cr3 para .jpeg** 
 **`Função`**: Gera URLs pré-assinadas que permitem o upload de arquivos diretamente para um bucket S3 a partir de um client. <br>
 `Por que existe:` Permite ao client realizar o upload de arquivos de forma segura e eficiente, sem passar pelos servidores intermediários, melhorando a performance da aplicação.
 
-### Utilidade
-A aplicação facilita a conversão de arquivos .cr3 (Canon) para .jpeg além de garantir o gerenciamentoe e a sincronização de arquivos entre S3 e Google Drive.
+> [!IMPORTANT]
+> A aplicação facilita a conversão de arquivos .cr3 (Canon) para .jpeg além de garantir o gerenciamento e a sincronização de arquivos entre S3 e Google Drive.
+
 
 ![image](https://github.com/user-attachments/assets/ff28d0e8-a7ac-4922-b0af-fe109376cea2)
