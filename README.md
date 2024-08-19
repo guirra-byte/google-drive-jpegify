@@ -1,7 +1,7 @@
 ## Descrição
 Essa aplicação é projetada para a **conversão de arquivos .cr3 para .jpeg** e armazené-los no **Google Drive**. 
 
-### Módulo 1: Delegação de Autenticação (Auth Sharing Module)
+### Módulo 1: Lateralização de Autenticação (Auth Sharing Module)
 **`Função:`** Recebe e processa credenciais de autenticação compartilhadas de um outro servidor já autenticado com as APIs do Google.<br>
 `Por que existe:` Permite que a aplicação atue em nome de diferentes usuários ou serviços sem a necessidade de reautenticação direta.
 ### Módulo 2: Gerenciamento de Arquivos entre S3 e Google Drive (Transfer Image Module)
